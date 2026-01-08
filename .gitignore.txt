@@ -1,0 +1,22 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+.vscode/
+.idea/
