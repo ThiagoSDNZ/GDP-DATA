@@ -1,10 +1,11 @@
 # 📊 Projeto de Análise do PIB Global (2020-2025)
-Projeto de Engenharia e Análise de Dados focado na evolução do Produto Interno Bruto (PIB) de diversos países, utilizando a Arquitetura Medalhão para organizar o fluxo de transformação de dados (ETL).
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-orange)
 ![Architecture](https://img.shields.io/badge/Architecture-Medalhões_(Bronze--Prata--Ouro)-green)
 ![Visualization](https://img.shields.io/badge/Visualization-PowerBI-yellow)
+
+Projeto de Engenharia e Análise de Dados focado na evolução do Produto Interno Bruto (PIB) de diversos países, utilizando a Arquitetura Medalhão para organizar o fluxo de transformação de dados (ETL).
 
 ## 🏗️ Estrutura do Projeto
 O projeto está dividido em camadas para garantir a integridade e a rastreabilidade dos dados:
